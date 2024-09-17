@@ -1,0 +1,8 @@
+Relevant file information:
+Version of Blender used: Blender 3.5
+Version of RenderDoc used: RenderDoc 1.26
+Version of MapsModelsImporter 0.6.2   (custom addon used to import RenderDoc files (.rdc) to Blender. Not necessary to load blendertest1.blend on Blender, but is necessary to create new .blend files using .rdc files)
+
+
+If loaded successfully, should look like blendertest1.png
+
