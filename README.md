@@ -10,5 +10,5 @@ Current Members:
 All progress and tutorials for downloading / working with our software will be listed here.
 
 Current Tutorials:
-Landscape Modeling (By William Reimer)
-
+- Landscape Modeling (By William Reimer)
+  - https://youtu.be/z5UC9gxLsIs?si=T1pbQVH9BviECOF9
