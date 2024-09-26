@@ -32,5 +32,21 @@ Sprint Information:
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
    
-- Sprint 2:
+- Sprint 2: 1 October - 10 October, Planned
+  - Managerial:
+    - Become familiarized with equipment in Micaplex
+    - Determine Roles
+    - Get in contact with other Polyverif teams
+    - Determine beginning Scenario within the intersection
+    - Project Presentation
+  - Documentation:
+    - Create video demo of ERAU campus model
+    - Upload video demo to YouTube
+    - Engineering notes 1
+    - Engineering notes 2
+  - Programming:
+    - Refine Render of ERAU campus
+    - Dual boot Ubuntu on Serena's laptop
+  - Research:
+    - Determine scenarios within Polyverif
   
