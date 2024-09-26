@@ -14,7 +14,7 @@ Current Tutorials:
   - https://youtu.be/z5UC9gxLsIs?si=T1pbQVH9BviECOF9
 
 Sprint Information:
-- Sprint 1: 17 Septermber - 26 September
+- Sprint 1: 17 Septermber - 26 September, Completed
   - Managerial:
     - Decide on the primary intersection
     - Establish GitHub page
@@ -31,3 +31,6 @@ Sprint Information:
     - Research 3d render of ERAU campus
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
+   
+- Sprint 2:
+  
