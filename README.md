@@ -32,7 +32,7 @@ Sprint Information:
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
    
-- Sprint 2: 1 October - 10 October, Planned
+- Sprint 2: 1 October - 10 October, In progress
   - Managerial:
     - Become familiarized with equipment in Micaplex
     - Determine Roles
