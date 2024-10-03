@@ -34,19 +34,19 @@ Sprint Information:
    
 - Sprint 2: 1 October - 10 October, In progress
   - Managerial:
-    - Become familiarized with equipment in Micaplex
-    - Determine Roles
-    - Get in contact with other Polyverif teams
-    - Determine beginning Scenario within the intersection
-    - Project Presentation
+    - Become familiarized with equipment in Micaplex (to do)
+    - Determine Roles (done)
+    - Get in contact with other Polyverif teams (in progress)
+    - Determine beginning Scenario within the intersection (in progress)
+    - Project Presentation (in progress)
   - Documentation:
-    - Create video demo of ERAU campus model
-    - Upload video demo to YouTube
-    - Engineering notes 1
-    - Engineering notes 2
+    - Create video demo of ERAU campus model (in progress)
+    - Upload video demo to YouTube (to do) 
+    - Engineering notes 1 (in progress)
+    - Engineering notes 2 (to do)
   - Programming:
-    - Refine Render of ERAU campus
-    - Dual boot Ubuntu on Serena's laptop
+    - Refine Render of ERAU campus (in progress)
+    - Dual boot Ubuntu on Serena's laptop (to do)
   - Research:
-    - Determine scenarios within Polyverif
+    - Determine scenarios within Polyverif (to do)
   
