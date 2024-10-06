@@ -7,14 +7,14 @@ Current Members:
 - Isabella Acosta
 - Davian Rosario-Ortiz
 
-All progress and tutorials for downloading / working with our software will be listed here.
+All progress and tutorials for downloading/working with our software will be listed here.
 
 Current Tutorials:
 - Landscape Modeling (By William Reimer)
   - https://youtu.be/z5UC9gxLsIs?si=T1pbQVH9BviECOF9
 
 Sprint Information:
-- Sprint 1: 17 Septermber - 26 September, Completed
+- Sprint 1: 17 September - 26 September, Completed
   - Managerial:
     - Decide on the primary intersection
     - Establish GitHub page
