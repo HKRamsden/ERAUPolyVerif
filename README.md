@@ -7,7 +7,11 @@ Current Members:
 - Isabella Acosta
 - Davian Rosario-Ortiz
 
-All progress and tutorials for downloading/working with our software will be listed here.
+Current Demonstrations shown below.
+
+![3D Scan](https://github.com/HKRamsden/ERAUPolyVerif/blob/main/blender_test/ezgif-5-b5bf0b2eda.gif)
+
+All progress and tutorials for downloading/working with our software will be listed below.
 
 Current Tutorials:
 - Landscape Modeling (By William Reimer)
