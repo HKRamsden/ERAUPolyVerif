@@ -23,7 +23,7 @@ Sprint Information:
     - Project Proposal
     - Meet with Dr. Akbas to determine project scope
   - Programming:
-    - Create basic render of ERAU campus
+    - Create a basic render of ERAU campus
     - Expand render to include full Campus
   - Research:
     - Research Polyverif papers
@@ -32,21 +32,28 @@ Sprint Information:
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
    
-- Sprint 2: 1 October - 10 October, In progress
+- Sprint 2: 1 October - 10 October, Complete
+  - Due to Hurricane Milton and significant power loss, tasks in this sprint were significantly shortened.
   - Managerial:
-    - Become familiarized with equipment in Micaplex (to do)
-    - Determine Roles (done)
-    - Get in contact with other Polyverif teams (in progress)
-    - Determine beginning Scenario within the intersection (in progress)
-    - Project Presentation (in progress)
-  - Documentation:
-    - Create video demo of ERAU campus model (in progress)
-    - Upload video demo to YouTube (to do) 
-    - Engineering notes 1 (in progress)
-    - Engineering notes 2 (to do)
-  - Programming:
-    - Refine Render of ERAU campus (in progress)
-    - Dual boot Ubuntu on Serena's laptop (to do)
-  - Research:
-    - Determine scenarios within Polyverif (to do)
+    - Determine Roles 
+    - Get in contact with other Polyverif teams 
+    - Create Video Demo of Campus
+    - Meet With Dr. Akbas for Polyverif Contact Information
+   
+- Sprint 3: 15 October - 24 October, In Progress
+  - Managerial
+    - Determine the beginning scenario within the intersection
+    - Become familiarized with equipment in Micaplex
+    - Project Presentation
+    - Peer Evaluations
+  - Documentation
+    - Upload Demo Video of Campus to YouTube
+    - Engineering Notes 1
+    - Engineering Notes 2
+    - Engineering Notes 3
+  - Programming
+    - Refine Render of Campus
+    - Dual Boot Ubuntu on Serena's Laptop
+  - Research
+    - Determine General Scenario within Polyverif
   
