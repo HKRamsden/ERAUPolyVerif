@@ -1,24 +1,27 @@
-This is the ERAU Fall 2024 Senior Design project for the EECS Department Team 11. 
+# ERAU Fall 2024 Senior Design 
+## EECS Department Team 11
 
-Current Members:
+### Current Members:
 - Hannah Ramsden
 - William Reimer
 - Serena Conticello
 - Isabella Acosta
 - Davian Rosario-Ortiz
 
-Current Demonstrations shown below.
+### Current Demonstrations
 
 ![3D Scan](https://github.com/HKRamsden/ERAUPolyVerif/blob/main/blender_test/ezgif-5-b5bf0b2eda.gif)
 
-All progress and tutorials for downloading/working with our software will be listed below.
+#### All progress and tutorials for downloading/working with our software will be listed below.
 
-Current Tutorials:
+Current Videos:
 - Landscape Modeling (By William Reimer)
-  - https://youtu.be/z5UC9gxLsIs?si=T1pbQVH9BviECOF9
+  - https://youtu.be/z5UC9gxLsIs?si=T1pbQVH9BviECOF9  
+- Sprint 1 and 2 Blender Demonstration
+  - https://youtu.be/A3klAB3fHzk
 
-Sprint Information:
-- Sprint 1: 17 September - 26 September, Completed
+### Sprint Information:
+#### - Sprint 1: 17 September - 26 September, Completed
   - Managerial:
     - Decide on the primary intersection
     - Establish GitHub page
@@ -36,7 +39,7 @@ Sprint Information:
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
    
-- Sprint 2: 1 October - 10 October, Complete
+#### - Sprint 2: 1 October - 10 October, Complete
   - Due to Hurricane Milton and significant power loss, tasks in this sprint were significantly shortened.
   - Managerial:
     - Determine Roles 
@@ -44,7 +47,7 @@ Sprint Information:
     - Create Video Demo of Campus
     - Meet With Dr. Akbas for Polyverif Contact Information
    
-- Sprint 3: 15 October - 24 October, In Progress
+#### - Sprint 3: 15 October - 24 October, In Progress
   - Managerial
     - Determine the beginning scenario within the intersection
     - Become familiarized with equipment in Micaplex
