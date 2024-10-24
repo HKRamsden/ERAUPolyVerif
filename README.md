@@ -39,7 +39,7 @@ Current Videos:
     - Write note template for Polyverif research
     - Create tutorial for rendering in Blender
    
-#### - Sprint 2: 1 October - 10 October, Complete
+#### - Sprint 2: 1 October - 10 October, Completed
   - Due to Hurricane Milton and significant power loss, tasks in this sprint were significantly shortened.
   - Managerial:
     - Determine Roles 
@@ -47,7 +47,7 @@ Current Videos:
     - Create Video Demo of Campus
     - Meet With Dr. Akbas for Polyverif Contact Information
    
-#### - Sprint 3: 15 October - 24 October, In Progress
+#### - Sprint 3: 15 October - 24 October, Completed
   - Managerial
     - Determine the beginning scenario within the intersection
     - Become familiarized with equipment in Micaplex
