@@ -1,0 +1,78 @@
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.8.1/install-guide.html
+
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.8.1/migrating-from-1.0.html#migration-1-0
+
+https://stackoverflow.com/questions/41802816/how-to-check-nvidia-docker-version
+
+https://github.com/NVIDIA
+
+https://askubuntu.com/questions/5417/how-to-get-the-gpu-info
+
+no longer having nvidia-docker2 issues now that we are on ubuntu version 20.04. We had to previously get workarounds to properly install nvidia-docker2 
+
+VV for this view, use nvidia-smi in the terminal
+
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.183.01             Driver Version: 535.183.01   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Quadro RTX 5000                Off | 00000000:91:00.0  On |                  Off |
+| 33%   32C    P8              24W / 230W |    428MiB / 16384MiB |      7%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|    0   N/A  N/A      1074      G   /usr/lib/xorg/Xorg                           65MiB |
+|    0   N/A  N/A      1921      G   /usr/lib/xorg/Xorg                          137MiB |
+|    0   N/A  N/A      2046      G   /usr/bin/gnome-shell                         55MiB |
+|    0   N/A  N/A     32840      G   /usr/lib/firefox/firefox                    160MiB |
++---------------------------------------------------------------------------------------+
+
+https://forums.developer.nvidia.com/t/unable-to-find-image-nvidia-cuda-while-installing-tao-toolkit/269833
+
+https://askubuntu.com/questions/1281368/verify-cuda-installation-in-ubuntu-18-06
+
+Unable to find image 'nvidia/cuda:12.2-base' locally
+docker: Error response from daemon: manifest for nvidia/cuda:12.2-base not found: manifest unknown: manifest unknown.
+^^ To fix this error, run:
+docker run --rm --gpus all nvidia/cuda:12.2.0-base-ubuntu20.04 nvidia-smi
+
+
+Moved all items to "Other" folder in home
+
+11/6/2024
+docker run -it -e HOST_USERNAME=$USER --mount source=home,target=/host-home polyverif/ossdc-sim:v1.1 bashars
+docker volume does not contain gnome-terminal which is needed for the script
+
+docker is installed 
+the instructions are missing an argument to enter a shell into the docker image
+the mounting argument is incorrectly stated
+gnome terminal is not installed on the image but is required to run the program
+attempting to install gnome terminal requires a commit to the docker image to not remove the package
+an argument is missing to open the host display to run the program 
+installing gnome terminal does not solve the issue as an app armor policy does not allow gnome terminal to open in the host desktop
+
+11/13/2024
+Reinstalled docker, and installed polyverif again. Proper install, but throwing errors:
+
+./polyVerif: /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.34' not found (required by ./polyVerif)
+./polyVerif: /lib/x86_64-linux-gnu/libQt5Core.so.5: version `Qt_5.15' not found (required by ./polyVerif)
+
+-GLIBC - Current version: 2.31 (ldd --version)
+-QT - Current version: 5.12.8 (qmake --version)
+
+To solve, visited the following links:
+
+https://stackoverflow.com/questions/71940179/error-lib-x86-64-linux-gnu-libc-so-6-version-glibc-2-34-not-found
+- this is used to understand how to update GLIBC version
+
+https://www.reddit.com/r/Ubuntu/comments/p6msxx/ubuntu_2004_lts_how_to_upgrade_qt_512_to_qt_515/
+- This has the same issue as us with QT5.15 upgrade. Will attempt to follow solution and will report back to what the results will be. 
+
